@@ -8,4 +8,4 @@ Make the mock up responsive and use any of the four different common responsive 
 * layout shifter
 * off canvas
 
-Use media queries for minor and major breakpoints
+Use media queries for minor and major breakpoints. Start small and build up!
